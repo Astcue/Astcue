@@ -2,7 +2,7 @@
 
 ### A passionate Typescript developer
 
-<p align="left"> <img src="(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFnNzRjb2U5a3dkdWN3bDgyNjdueDNzZm5laTF3eTJxdnI4MDFuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif)" alt="Astcue" /> </p>
+<p align="left"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFnNzRjb2U5a3dkdWN3bDgyNjdueDNzZm5laTF3eTJxdnI4MDFuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" alt="Astcue" /> </p>
 
 - 🌱 I'm currently learning **Type script and C++**
 
