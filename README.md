@@ -1,4 +1,4 @@
-# Hi 👋, I'm Astcue
+# Hi 👋, I'm SB
 
 ### A passionate Typescript developer
 
